@@ -1,0 +1,14 @@
+E:\taller_1\repo9\tp9\tp9\bin\Debug\tp9.exe.config
+E:\taller_1\repo9\tp9\tp9\bin\Debug\tp9.exe
+E:\taller_1\repo9\tp9\tp9\bin\Debug\tp9.pdb
+E:\taller_1\repo9\tp9\tp9\obj\Debug\tp9.csprojAssemblyReference.cache
+E:\taller_1\repo9\tp9\tp9\obj\Debug\tp9.csproj.CoreCompileInputs.cache
+E:\taller_1\repo9\tp9\tp9\obj\Debug\tp9.exe
+E:\taller_1\repo9\tp9\tp9\obj\Debug\tp9.pdb
+G:\taller_1\repo9\tp9\tp9\bin\Debug\tp9.exe.config
+G:\taller_1\repo9\tp9\tp9\bin\Debug\tp9.exe
+G:\taller_1\repo9\tp9\tp9\bin\Debug\tp9.pdb
+G:\taller_1\repo9\tp9\tp9\obj\Debug\tp9.csprojAssemblyReference.cache
+G:\taller_1\repo9\tp9\tp9\obj\Debug\tp9.csproj.CoreCompileInputs.cache
+G:\taller_1\repo9\tp9\tp9\obj\Debug\tp9.exe
+G:\taller_1\repo9\tp9\tp9\obj\Debug\tp9.pdb
