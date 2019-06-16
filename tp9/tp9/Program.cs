@@ -15,14 +15,14 @@ namespace tp9
             // crear archivo
             string Archivo = SoporteParaConfiguracion.CrearArchivo();
             SoporteParaConfiguracion.LeerConfiguracion();
-            string pegar = @"E:\taller_1\repo9\tp9\tp9\bin\Debug";
-            string copiar= @"E:\taller_1\repo9";
+            string pegar = @"C:\repo9gon\tp9\tp9\bin\Debug";
+            string copiar= @"C:\repo9gon\";
             string result;
             string [] mostrar;
             result = Path.GetFileName(pegar);
            // Console.WriteLine("GetFileName('{0}') returns '{1}'",path1, result);
 
-           // copiar archivos mp3 y txt
+           // copio archivos de tipo mp3 y txt
             try
             { 
                mostrar = Directory.GetFiles(pegar);
@@ -47,7 +47,6 @@ namespace tp9
             catch(Exception ex){
                 Console.Write("\n Ya esta copiado los archivos \n");
             }
-            //Paso 2. Creando el conversor de morse a texto y viceversa
 
             //TEXTO a MORSE
             string text;
@@ -58,9 +57,12 @@ namespace tp9
            // MORSE a TEXTO
             string morse;
             Console.Write("\nEscriba un texto en morse para traducirlo: ");
-            morse = Convert.ToString(Console.ReadLine() );
+             morse = Convert.ToString(Console.ReadLine() );
            
             ConversorDeMorse.MorseATexto(morse);
+            //----------------------------------------------------------------------------------//
+            //archivo MP3//
+            concatenar.concatenarmp3();
             Console.ReadKey();
 
         }
